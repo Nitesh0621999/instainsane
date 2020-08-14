@@ -1,1 +1,1 @@
-# instainsane
+https://github.com/thelinuxchoice/instainsane
